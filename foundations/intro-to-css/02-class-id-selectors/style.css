@@ -1,0 +1,19 @@
+.num {
+    background-color: rgb(255, 171, 206);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+#fir {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#sec {
+    background-color: #90ff90;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.num.cool {
+    font-size: 24px;
+}
